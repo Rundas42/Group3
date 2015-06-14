@@ -976,7 +976,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   c_mode: 2
   _enemy:
-  - {fileID: 106712, guid: 656550b121a43e54a87afddad29f325c, type: 2}
+  - {fileID: 0}
   EnemySpawnCounter: 0
   LevelCounter: 0
 --- !u!4 &1992670385
